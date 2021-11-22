@@ -45,7 +45,7 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 # Mock-up
-![Demo](./develop/assets/images/demo.gif)
+![Demo](./public/assets/images/demo.gif)
 # Getting Started
 Your application’s folder structure must follow the Model-View-Controller paradigm. You’ll need to use the express-handlebars package to use Handlebars.js for your Views, use the MySQL2 and Sequelize packages to connect to a MySQL database for your Models, and create an Express.js API for your Controllers.
 You’ll also need the dotenv package to use environment variables, the bcrypt package to hash passwords, and the express-session and connect-session-sequelize packages to add authentication.
