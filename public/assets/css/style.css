@@ -163,10 +163,10 @@
   }
   
   footer {
-    border-top: 1px solid #ccc;
+    
     display: flex;
     justify-content: center;
     padding: 1%;
     font-size: 110%;
-    background-color: rgb(107, 107, 197);
+    background-color: rgb(38, 38, 39);
   }
