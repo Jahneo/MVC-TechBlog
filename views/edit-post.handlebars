@@ -10,23 +10,23 @@
     </div>
     <div>
       <label for="post-content">Edit Content</label>
-      <textarea name="post-content" type="text">{{post.post_content}}</textarea>
+      <textarea name="post-content" type="text">{{posts.post_content}}</textarea>
     </div>
     <div>
-      <a href="/post/{{post.id}}">{{post.comments.length}} {{format_plural "comment" post.comments.length}}</a>
+      <a href="/post/{{posts.id}}">{{posts.comments.length}} {{format_plural "comment" posts.comments.length}}</a>
     </div>
     <button type="submit">Save Up dated Post</button>
     <button type="button" class="delete-post-btn">Delete Post</button>
   </form>
 </article>
 
-{{> comments post.comments}}
+
 
 {{#if loggedIn}}
 
-<script src="javascript/edit-post.js"></script>
+<script src="/javascript/edit-post.js"></script>
 
-<script src="javascript/delete-post.js"></script>
+<script src="/javascript/delete-post.js"></script>
 
-<script src="javascript/comment.js"></script>
+<script src="/javascript/comment.js"></script>
 {{/if}}

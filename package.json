@@ -4,7 +4,7 @@
   "description": "A cms style blog site to publish articles,blog post and thoughts and opinions",
   "main": "server.js",
   "scripts": {
-    "seeds": "node seeds/server.js"
+    "seeds": "node seeds /server.js"
   },
   "repository": {
     "type": "git",

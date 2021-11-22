@@ -7,7 +7,7 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: rgba(10, 1, 1, 0.048);
   }
   
   a {
@@ -75,11 +75,12 @@
   }
   
   header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgba(5, 19, 10, 0.13);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 1%;
+    background-color: rgb(122, 122, 126);
   }
   
   header h1 {
@@ -167,5 +168,5 @@
     justify-content: center;
     padding: 1%;
     font-size: 110%;
-    background-color: rgb(206, 206, 221);
+    background-color: rgb(107, 107, 197);
   }
