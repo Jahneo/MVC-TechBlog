@@ -74,5 +74,20 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ## Progress
+![Web](.public/assets/images/posts.png)
+![User](.public/assets/images/users.png)
+
+## Issues
+
+Getting the right colour scheme for the page.
+Deploying to Heroku
+Seeding data in Heroku.
+Later found out Heroku run node.seeds
+
+# Deployment
+![heroku](https://neil-mvc-tech-blog.herokuapp.com/)
+
+# Github
+![Github](https://github.com/Jahneo/NeilMVC-TechBlog)
 - - -
 © 2021 Trilogy Ed
