@@ -54,7 +54,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 The following animation demonstrates the application functionality:
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](.public/assets/images/demo.gif)
+![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](public/assets/images/demo.gif)
 
 
 ## Getting Started
@@ -74,8 +74,8 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ## Progress
-![Web](.public/assets/images/posts.png)
-![User](.public/assets/images/users.png)
+![Web](public/assets/images/posts.png)
+![User](public/assets/images/users.png)
 
 ## Issues
 
@@ -85,9 +85,9 @@ Seeding data in Heroku.
 Later found out Heroku run node.seeds
 
 # Deployment
-![heroku](https://neil-mvc-tech-blog.herokuapp.com/)
+[heroku](https://neil-mvc-tech-blog.herokuapp.com/)
 
 # Github
-![Github](https://github.com/Jahneo/NeilMVC-TechBlog)
+[Github](https://github.com/Jahneo/NeilMVC-TechBlog)
 - - -
 © 2021 Trilogy Ed
